@@ -1,0 +1,27 @@
+.TodoTemplate {
+  width: 512px;
+  margin: 6rem auto;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.TodoTemplate .app-title {
+  background: #22b8cf;
+  color: #fff;
+  height: 4rem;
+  font-size: 1.5rem;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.TodoTemplate .content {
+  background: #fff;
+}
+/*# sourceMappingURL=TodoTemplate.css.map */
